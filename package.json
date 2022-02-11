@@ -1,0 +1,27 @@
+{
+  "name": "shottybot",
+  "version": "1.0.0",
+  "description": "Discord Bot For Shotty Gaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EverettBazzocchi/ShottyGamingBot.git"
+  },
+  "author": "darklordbazz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EverettBazzocchi/ShottyGamingBot/issues"
+  },
+  "homepage": "https://github.com/EverettBazzocchi/ShottyGamingBot#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord.js": "^13.6.0",
+    "enmap": "^5.8.8",
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.2"
+  }
+}
